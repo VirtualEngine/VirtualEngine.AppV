@@ -1,0 +1,23 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#8de08f",
+        "activityBar.activeBorder": "#8482dd",
+        "activityBar.background": "#8de08f",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#8482dd",
+        "activityBarBadge.foreground": "#15202b",
+        "sash.hoverBorder": "#8de08f",
+        "statusBar.background": "#65d567",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#3dca3f",
+        "statusBarItem.remoteBackground": "#65d567",
+        "statusBarItem.remoteForeground": "#15202b",
+        "titleBar.activeBackground": "#65d567",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#65d56799",
+        "titleBar.inactiveForeground": "#15202b99"
+    },
+    "peacock.color": "#65d567",
+    "files.trimTrailingWhitespace": true
+}
